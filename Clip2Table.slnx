@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Clip2Table.Core/Clip2Table.Core.csproj" />
+    <Project Path="src/Clip2Table/Clip2Table.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Clip2Table.Core.Tests/Clip2Table.Core.Tests.csproj" />
+  </Folder>
+</Solution>
